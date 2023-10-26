@@ -1,0 +1,9 @@
+# Static Website Hosting 
+Hosting a HTTPS website by using AWS
+
+## Cloud Services Used
+- S3
+- Route53
+- Certificate Manager
+- CloudFront
+
