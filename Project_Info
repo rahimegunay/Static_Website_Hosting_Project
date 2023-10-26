@@ -6,4 +6,8 @@ Hosting a HTTPS website by using AWS
 - Route53
 - Certificate Manager
 - CloudFront
+ ## Cloud Services Features
+- S3:
+-- 5GB of Free Storage
+-- 20000 Free GET Requests & 2000 Free PUT Requests
 
