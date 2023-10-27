@@ -10,4 +10,7 @@ Hosting a HTTPS website by using AWS
 - S3:
 -- 5GB of Free Storage
 -- 20000 Free GET Requests & 2000 Free PUT Requests
+- CloudFront:
+-- 50 GB of free outbound data transfer
+-- 2,000,000 free HTTP or HTTPS requests
 
