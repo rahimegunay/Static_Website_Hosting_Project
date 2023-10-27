@@ -14,3 +14,8 @@ Hosting a HTTPS website by using AWS
 -- 50 GB of free outbound data transfer
 -- 2,000,000 free HTTP or HTTPS requests
 
+- Route 53:
+-- Free DNS queries for A records
+- AWS Certificate Manager:
+-- Free SSL/TLS certificate to create, and to use with CloudFront
+
