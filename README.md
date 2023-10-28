@@ -9,4 +9,7 @@ Through this project, you will be able to host a static website on AWS. Along th
 - Configure Route 53 to link the domain name to the website;
 - Create an SSL certificate for the website using AWS Certificate Manager (ACM);
 - Create CloudFront distributions to secure the website in HTTPS.
-- Take a closer look at the infrastructure deployed with this project 
+- Take a closer look at the infrastructure deployed with this project
+
+- For more info get from the following link:
+- https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html
