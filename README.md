@@ -13,3 +13,6 @@ Through this project, you will be able to host a static website on AWS. Along th
 
 - For more info get from the following link:
 - https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html
+
+
+I need to make a AWS 3 tier Web Apllication
